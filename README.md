@@ -36,11 +36,16 @@ Built using FastAPI, Streamlit, Diffusers, and Stable Diffusion, this applicatio
 ---
 
 #  Acknowledgements
-Hugging Face Diffusers
-Stability AI
-Streamlit
-FastAPI
-PyTorch
+
+- Hugging Face Diffusers
+
+- Stability AI
+
+- Streamlit
+
+- FastAPI
+
+- PyTorch
 
 ---
 
