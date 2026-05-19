@@ -1,6 +1,6 @@
 # 🎨 AI Image Generator
 
-An advanced Text-to-Image Generator powered by Stable Diffusion that transforms natural language prompts into high-quality AI-generated artwork.
+Built An advanced Text-to-Image Generator powered by Stable Diffusion that transforms natural language prompts into high-quality AI-generated artwork.
 
 Built using FastAPI, Streamlit, Diffusers, and Stable Diffusion, this application provides an interactive prompt-engineering interface with artistic style presets, image history, and real-time AI image generation.
 
