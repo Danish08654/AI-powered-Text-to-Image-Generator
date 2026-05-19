@@ -37,15 +37,15 @@ Built using FastAPI, Streamlit, Diffusers, and Stable Diffusion, this applicatio
 
 #  Acknowledgements
 
-- Hugging Face Diffusers
+1) Hugging Face Diffusers
 
-- Stability AI
+2) Stability AI
 
-- Streamlit
+3) Streamlit
 
-- FastAPI
+4) FastAPI
 
-- PyTorch
+5) PyTorch
 
 ---
 
