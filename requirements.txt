@@ -1,0 +1,11 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+fastapi
+uvicorn
+python-multipart
+streamlit
+pillow
+requests
